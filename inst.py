@@ -4,7 +4,7 @@ import instaloader
 L = instaloader.Instaloader()
 
 # Укажите имя пользователя, профиль которого вы хотите получить
-username = "@_aleksandra_muzurantova_"  # Замените на нужное имя пользователя
+username = ""  # Замените на нужное имя пользователя
 
 try:
     # Загружаем профиль
